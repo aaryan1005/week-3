@@ -52,7 +52,7 @@ Data Visualization: matplotlib, seaborn
 1. Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https://github.com/aaryan1005/week-3
 cd customer-segmentation
 2. Install dependencies:
 
